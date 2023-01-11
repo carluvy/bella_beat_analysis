@@ -1,4 +1,4 @@
 # bella_beat_analysis
 Capstone project for the Google Data Analytics Course
-!![tracking_app.png]
+!![tracking_app.png](https://github.com/carluvy/bella_beat_analysis/blob/main/features%20usage.png)
 
